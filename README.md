@@ -41,3 +41,12 @@ Can self-reported social class be influenced by non-economic factors such as rel
 | Q275 (Education Level) | 97220 | 3.49 | 2.13    | -5  | 2   | 3   | 5   | 8   |
 | Q270 (Household Size)  | 97220 | 3.95 | 2.65    | -5  | 2   | 4   | 5   | 7   |
 
+
+
+Updated: 02 March, 2025
+
+
+
+
+
+
