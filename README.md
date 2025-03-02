@@ -1,5 +1,9 @@
 # Ibnat_Nahian_dawai_week01_readme.md
 
+## Overview
+
+This project explores the factors influencing an individual's self-reported social class. Traditional economic indicators such as income and education are commonly associated with class perception, but this analysis investigates whether non-economic factors—particularly religious beliefs—play a significant role. Using data from the World Values Survey (Wave 7), this study examines a range of socioeconomic and demographic variables to uncover potential patterns in self-perceived social class.
+
 ## Research Question
 
 Can self-reported social class be influenced by non-economic factors such as religious beliefs rather than income and education alone?
